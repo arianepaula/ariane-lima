@@ -122,7 +122,7 @@ Menu > Categories
 - Delete a category of expense
 - Repeat the flow above for the income categories
 
-Menu > Categories
+Menu > Currencies
 -------------------
 - Edit the decimal places of a currency
 - Create a rate for a currency
